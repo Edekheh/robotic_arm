@@ -1,0 +1,1 @@
+/home/dawid/robotic_arm/devel/.private/URDF_LATEST_description/share/URDF_LATEST_description/cmake/URDF_LATEST_descriptionConfig-version.cmake

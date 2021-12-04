@@ -1,0 +1,1 @@
+/home/dawid/robotic_arm/devel/.private/rosserial_msgs/share/gennodejs/ros/rosserial_msgs/msg/TopicInfo.js

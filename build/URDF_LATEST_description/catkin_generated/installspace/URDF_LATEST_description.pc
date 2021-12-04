@@ -1,0 +1,8 @@
+prefix=/home/dawid/robotic_arm/install
+
+Name: URDF_LATEST_description
+Description: Description of URDF_LATEST_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

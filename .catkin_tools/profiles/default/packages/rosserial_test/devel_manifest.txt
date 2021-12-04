@@ -1,0 +1,5 @@
+rosserial/rosserial_test
+/home/dawid/robotic_arm/devel/.private/rosserial_test/cmake.lock /home/dawid/robotic_arm/devel/./cmake.lock
+/home/dawid/robotic_arm/devel/.private/rosserial_test/lib/pkgconfig/rosserial_test.pc /home/dawid/robotic_arm/devel/lib/pkgconfig/rosserial_test.pc
+/home/dawid/robotic_arm/devel/.private/rosserial_test/share/rosserial_test/cmake/rosserial_testConfig-version.cmake /home/dawid/robotic_arm/devel/share/rosserial_test/cmake/rosserial_testConfig-version.cmake
+/home/dawid/robotic_arm/devel/.private/rosserial_test/share/rosserial_test/cmake/rosserial_testConfig.cmake /home/dawid/robotic_arm/devel/share/rosserial_test/cmake/rosserial_testConfig.cmake

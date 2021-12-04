@@ -1,0 +1,1 @@
+/home/dawid/robotic_arm/devel/.private/rosserial_server/lib/pkgconfig/rosserial_server.pc

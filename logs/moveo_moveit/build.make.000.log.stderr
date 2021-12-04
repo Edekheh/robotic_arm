@@ -1,0 +1,16 @@
+In file included from /usr/include/eigen3/Eigen/Core:347:0,
+                 from /usr/include/eigen3/Eigen/Geometry:11,
+                 from /opt/ros/melodic/include/moveit/robot_model/joint_model.h:47,
+                 from /opt/ros/melodic/include/moveit/robot_model/joint_model_group.h:41,
+                 from /opt/ros/melodic/include/moveit/robot_model/robot_model.h:47,
+                 from /opt/ros/melodic/include/moveit/robot_state/robot_state.h:41,
+                 from /opt/ros/melodic/include/moveit/move_group_interface/move_group_interface.h:42,
+                 from /home/dawid/robotic_arm/src/moveo_ros/moveo_moveit/src/move_group_interface_coor_1.cpp:1:
+/usr/include/eigen3/Eigen/src/Geometry/Transform.h: In instantiation of ‘Eigen::Transform<Scalar, Dim, Mode, _Options>::Transform(const Eigen::Transform<_Scalar, Dim, OtherMode, OtherOptions>&) [with int OtherMode = 2; int OtherOptions = 0; _Scalar = double; int _Dim = 3; int _Mode = 1; int _Options = 0]’:
+/home/dawid/robotic_arm/src/moveo_ros/moveo_moveit/src/move_group_interface_coor_1.cpp:65:95:   required from here
+/usr/include/eigen3/Eigen/src/Geometry/Transform.h:331:5: error: static assertion failed: YOU_PERFORMED_AN_INVALID_TRANSFORMATION_CONVERSION
+     EIGEN_STATIC_ASSERT(EIGEN_IMPLIES(OtherMode==int(Affine)||OtherMode==int(AffineCompact), Mode!=int(Isometry)),
+     ^
+make[2]: *** [CMakeFiles/move_group_1.dir/src/move_group_interface_coor_1.cpp.o] Error 1
+make[1]: *** [CMakeFiles/move_group_1.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,1 @@
+/home/dawid/robotic_arm/devel/.private/rosserial_vex_cortex/share/rosserial_vex_cortex/cmake/rosserial_vex_cortexConfig-version.cmake

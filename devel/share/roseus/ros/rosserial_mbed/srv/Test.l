@@ -1,0 +1,1 @@
+/home/dawid/robotic_arm/devel/.private/rosserial_mbed/share/roseus/ros/rosserial_mbed/srv/Test.l

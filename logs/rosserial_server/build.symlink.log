@@ -1,0 +1,7 @@
+Linked: (/home/dawid/robotic_arm/devel/.private/rosserial_server/lib/librosserial_server_lookup.so, /home/dawid/robotic_arm/devel/lib/librosserial_server_lookup.so)
+Linked: (/home/dawid/robotic_arm/devel/.private/rosserial_server/lib/rosserial_server/serial_node, /home/dawid/robotic_arm/devel/lib/rosserial_server/serial_node)
+Linked: (/home/dawid/robotic_arm/devel/.private/rosserial_server/lib/rosserial_server/udp_socket_node, /home/dawid/robotic_arm/devel/lib/rosserial_server/udp_socket_node)
+Linked: (/home/dawid/robotic_arm/devel/.private/rosserial_server/lib/rosserial_server/socket_node, /home/dawid/robotic_arm/devel/lib/rosserial_server/socket_node)
+Linked: (/home/dawid/robotic_arm/devel/.private/rosserial_server/lib/pkgconfig/rosserial_server.pc, /home/dawid/robotic_arm/devel/lib/pkgconfig/rosserial_server.pc)
+Linked: (/home/dawid/robotic_arm/devel/.private/rosserial_server/share/rosserial_server/cmake/rosserial_serverConfig-version.cmake, /home/dawid/robotic_arm/devel/share/rosserial_server/cmake/rosserial_serverConfig-version.cmake)
+Linked: (/home/dawid/robotic_arm/devel/.private/rosserial_server/share/rosserial_server/cmake/rosserial_serverConfig.cmake, /home/dawid/robotic_arm/devel/share/rosserial_server/cmake/rosserial_serverConfig.cmake)

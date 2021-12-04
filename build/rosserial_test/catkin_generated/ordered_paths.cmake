@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/dawid/robotic_arm/devel/.private/rosserial_server/lib;/opt/ros/melodic/lib")

@@ -1,0 +1,1 @@
+/home/dawid/robotic_arm/devel/.private/rosserial_chibios/share/rosserial_chibios/cmake/rosserial_chibiosConfig.cmake

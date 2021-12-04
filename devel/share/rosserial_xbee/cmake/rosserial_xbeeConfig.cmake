@@ -1,0 +1,1 @@
+/home/dawid/robotic_arm/devel/.private/rosserial_xbee/share/rosserial_xbee/cmake/rosserial_xbeeConfig.cmake

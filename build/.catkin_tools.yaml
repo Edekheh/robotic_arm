@@ -1,0 +1,6 @@
+devel_space: /home/dawid/robotic_arm/devel
+install: false
+install_space: /home/dawid/robotic_arm/install
+profile: default
+source_space: /home/dawid/robotic_arm/src
+workspace: /home/dawid/robotic_arm

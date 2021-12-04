@@ -1,0 +1,5 @@
+rosserial/rosserial_chibios
+/home/dawid/robotic_arm/devel/.private/rosserial_chibios/cmake.lock /home/dawid/robotic_arm/devel/./cmake.lock
+/home/dawid/robotic_arm/devel/.private/rosserial_chibios/lib/pkgconfig/rosserial_chibios.pc /home/dawid/robotic_arm/devel/lib/pkgconfig/rosserial_chibios.pc
+/home/dawid/robotic_arm/devel/.private/rosserial_chibios/share/rosserial_chibios/cmake/rosserial_chibiosConfig.cmake /home/dawid/robotic_arm/devel/share/rosserial_chibios/cmake/rosserial_chibiosConfig.cmake
+/home/dawid/robotic_arm/devel/.private/rosserial_chibios/share/rosserial_chibios/cmake/rosserial_chibiosConfig-version.cmake /home/dawid/robotic_arm/devel/share/rosserial_chibios/cmake/rosserial_chibiosConfig-version.cmake

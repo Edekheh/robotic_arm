@@ -1,0 +1,8 @@
+prefix=/home/dawid/robotic_arm/devel/.private/URDF_poprawki_description
+
+Name: URDF_poprawki_description
+Description: Description of URDF_poprawki_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/dawid/robotic_arm/devel/.private/URDF_poprawki_description/share/URDF_poprawki_description/cmake/URDF_poprawki_descriptionConfig.cmake

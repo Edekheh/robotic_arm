@@ -1,0 +1,6 @@
+rosserial/rosserial_vex_cortex
+/home/dawid/robotic_arm/devel/.private/rosserial_vex_cortex/cmake.lock /home/dawid/robotic_arm/devel/./cmake.lock
+/home/dawid/robotic_arm/devel/.private/rosserial_vex_cortex/lib/python2.7/dist-packages/rosserial_vex_cortex/__init__.py /home/dawid/robotic_arm/devel/lib/python2.7/dist-packages/rosserial_vex_cortex/__init__.py
+/home/dawid/robotic_arm/devel/.private/rosserial_vex_cortex/lib/pkgconfig/rosserial_vex_cortex.pc /home/dawid/robotic_arm/devel/lib/pkgconfig/rosserial_vex_cortex.pc
+/home/dawid/robotic_arm/devel/.private/rosserial_vex_cortex/share/rosserial_vex_cortex/cmake/rosserial_vex_cortexConfig-version.cmake /home/dawid/robotic_arm/devel/share/rosserial_vex_cortex/cmake/rosserial_vex_cortexConfig-version.cmake
+/home/dawid/robotic_arm/devel/.private/rosserial_vex_cortex/share/rosserial_vex_cortex/cmake/rosserial_vex_cortexConfig.cmake /home/dawid/robotic_arm/devel/share/rosserial_vex_cortex/cmake/rosserial_vex_cortexConfig.cmake

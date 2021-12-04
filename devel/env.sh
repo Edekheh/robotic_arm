@@ -1,0 +1,1 @@
+/home/dawid/robotic_arm/devel/.private/catkin_tools_prebuild/env.sh
